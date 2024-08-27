@@ -1,0 +1,3 @@
+controllers:
+    resource: '../src/Shipping/Infrastructure/Delivery/Controller/'
+    type: annotation
